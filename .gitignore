@@ -1,9 +1,11 @@
 RemoteSystemsTempFiles
 
-.settings
-.project
 .classpath
-.metadata
-
 .DS_Store
+.metadata
+.project
+.recommenders
+.settings
+
+target/
 
